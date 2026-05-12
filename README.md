@@ -1,6 +1,7 @@
 # Equations-of-Motion
 New Python Project Alert!
-
+<br>
+Author - MD Abdul Karim Preo
 Today I made a small but cool project — Motion Calculator 🧮
 In this program, I used three laws of physics:
 1️⃣ v = u + at
